@@ -1,0 +1,17 @@
+D:\13NET\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production.Contract\bin\Debug\netcoreapp2.0\GeekBurger.Production.Contract.deps.json
+D:\13NET\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production.Contract\bin\Debug\netcoreapp2.0\GeekBurger.Production.Contract.dll
+D:\13NET\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production.Contract\bin\Debug\netcoreapp2.0\GeekBurger.Production.Contract.pdb
+D:\13NET\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production.Contract\obj\Debug\netcoreapp2.0\GeekBurger.Production.Contract.csproj.CoreCompileInputs.cache
+D:\13NET\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production.Contract\obj\Debug\netcoreapp2.0\GeekBurger.Production.Contract.AssemblyInfoInputs.cache
+D:\13NET\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production.Contract\obj\Debug\netcoreapp2.0\GeekBurger.Production.Contract.AssemblyInfo.cs
+D:\13NET\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production.Contract\obj\Debug\netcoreapp2.0\GeekBurger.Production.Contract.dll
+D:\13NET\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production.Contract\obj\Debug\netcoreapp2.0\GeekBurger.Production.Contract.pdb
+C:\Compartilhamentos\RepoGit\FIAP-Projetos\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production.Contract\bin\Debug\netcoreapp2.0\GeekBurger.Production.Contract.deps.json
+C:\Compartilhamentos\RepoGit\FIAP-Projetos\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production.Contract\bin\Debug\netcoreapp2.0\GeekBurger.Production.Contract.dll
+C:\Compartilhamentos\RepoGit\FIAP-Projetos\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production.Contract\bin\Debug\netcoreapp2.0\GeekBurger.Production.Contract.pdb
+C:\Compartilhamentos\RepoGit\FIAP-Projetos\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production.Contract\obj\Debug\netcoreapp2.0\GeekBurger.Production.Contract.csprojAssemblyReference.cache
+C:\Compartilhamentos\RepoGit\FIAP-Projetos\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production.Contract\obj\Debug\netcoreapp2.0\GeekBurger.Production.Contract.csproj.CoreCompileInputs.cache
+C:\Compartilhamentos\RepoGit\FIAP-Projetos\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production.Contract\obj\Debug\netcoreapp2.0\GeekBurger.Production.Contract.AssemblyInfoInputs.cache
+C:\Compartilhamentos\RepoGit\FIAP-Projetos\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production.Contract\obj\Debug\netcoreapp2.0\GeekBurger.Production.Contract.AssemblyInfo.cs
+C:\Compartilhamentos\RepoGit\FIAP-Projetos\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production.Contract\obj\Debug\netcoreapp2.0\GeekBurger.Production.Contract.dll
+C:\Compartilhamentos\RepoGit\FIAP-Projetos\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production.Contract\obj\Debug\netcoreapp2.0\GeekBurger.Production.Contract.pdb

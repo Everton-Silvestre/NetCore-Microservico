@@ -1,0 +1,15 @@
+C:\Compartilhamentos\RepoGit\FIAP-Projetos\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production\bin\Release\netcoreapp2.0\GeekBurger.Production.deps.json
+C:\Compartilhamentos\RepoGit\FIAP-Projetos\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production\bin\Release\netcoreapp2.0\GeekBurger.Production.runtimeconfig.json
+C:\Compartilhamentos\RepoGit\FIAP-Projetos\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production\bin\Release\netcoreapp2.0\GeekBurger.Production.runtimeconfig.dev.json
+C:\Compartilhamentos\RepoGit\FIAP-Projetos\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production\bin\Release\netcoreapp2.0\GeekBurger.Production.dll
+C:\Compartilhamentos\RepoGit\FIAP-Projetos\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production\bin\Release\netcoreapp2.0\GeekBurger.Production.pdb
+C:\Compartilhamentos\RepoGit\FIAP-Projetos\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production\bin\Release\netcoreapp2.0\GeekBurger.Production.Contract.dll
+C:\Compartilhamentos\RepoGit\FIAP-Projetos\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production\bin\Release\netcoreapp2.0\GeekBurger.Production.Contract.pdb
+C:\Compartilhamentos\RepoGit\FIAP-Projetos\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production\obj\Release\netcoreapp2.0\GeekBurger.Production.csprojAssemblyReference.cache
+C:\Compartilhamentos\RepoGit\FIAP-Projetos\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production\obj\Release\netcoreapp2.0\GeekBurger.Production.csproj.CoreCompileInputs.cache
+C:\Compartilhamentos\RepoGit\FIAP-Projetos\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Compartilhamentos\RepoGit\FIAP-Projetos\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production\obj\Release\netcoreapp2.0\GeekBurger.Production.AssemblyInfoInputs.cache
+C:\Compartilhamentos\RepoGit\FIAP-Projetos\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production\obj\Release\netcoreapp2.0\GeekBurger.Production.AssemblyInfo.cs
+C:\Compartilhamentos\RepoGit\FIAP-Projetos\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production\obj\Release\netcoreapp2.0\GeekBurger.Production.csproj.CopyComplete
+C:\Compartilhamentos\RepoGit\FIAP-Projetos\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production\obj\Release\netcoreapp2.0\GeekBurger.Production.dll
+C:\Compartilhamentos\RepoGit\FIAP-Projetos\Microservico\GeekBurgerProduction\GeekBurger.Production\GeekBurger.Production\obj\Release\netcoreapp2.0\GeekBurger.Production.pdb
